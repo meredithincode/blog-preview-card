@@ -1,0 +1,82 @@
+
+body {
+background-color: hsl(47, 88%, 63%);
+color: hsl(0, 0%, 7%);
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h1:hover {
+    color: hsl(47, 88%, 63%);
+}
+
+h2 {
+    font-size: 22px;
+
+}
+
+h3 {
+    font-size: 14px;
+    background-color: hsl(47, 88%, 63%);
+    padding: 6px 6px 6px 6px;
+    max-width: 70px;
+    border-radius: 5px;
+    text-align: center;
+    }
+
+.figtree-font> {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500, 800;
+  font-style: normal;
+}
+
+.blog-container {
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: white;
+max-width: 340px;
+height: 450px;
+margin: auto;
+margin-top: 100px;
+border-radius: 15px;
+border: 1px solid black;
+box-shadow: 5px 5px black;
+padding: 20px;
+font-family: "Figtree";
+}
+
+#decor-img {
+width: 360px;
+border-radius: 10px;
+max-width: 340px;
+}
+
+#avatar-img {
+    width: 40px;
+}
+
+.avatar-box {
+    align-items: center;
+    display: inline-flex;
+    
+}
+#avatar-text {
+    padding-left: 10px;
+    font-size: small;
+    font-weight: 700;
+    color: hsl(0, 0%, 7%);
+}
+
+p.date-text {
+font-size: small;
+color: hsl(0, 0%, 7%);
+}
+
+p {
+    font-weight: 500;
+    color:hsl(0, 0%, 42%)
+}
